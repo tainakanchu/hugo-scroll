@@ -201,15 +201,15 @@ a {
 }
 
 a:hover {
-  color: #86c440;
+  color: #039FE8;
 }
 
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: #F20587;
   border-radius: 6px;
   -webkit-border-radius: 6px;
-  color: white;
+  color: #F2F2F2;
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
@@ -225,7 +225,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #86c440;
+  background: #D9048E;
 }
 
 #header-arrow {
@@ -493,8 +493,8 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: #fff;
-  background: #b80135 no-repeat center center;
+  color: #f2f2f2;
+  background: #E5017F no-repeat center center;
   background-size: cover;
 }
 
@@ -545,11 +545,11 @@ ul li {
 .post-holder {
   width: 100%;
   height: 100%;
-  background: #f2efe8;
+  background: #f2f2f2;
   position: relative;
 }
 .post-holder.odd {
-  background: #b80135;
+  background: #E5017F;
   color: white;
 }
 
@@ -591,10 +591,10 @@ a.fn-item {
   color: white;
 }
 a.fn-item:hover {
-  color: #9fd067;
+  color: #039FE8;
 }
 a.fn-item.active {
-  color: #86c440;
+  color: #E5017F;
   opacity: 1;
 }
 
